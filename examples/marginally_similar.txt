@@ -1,0 +1,55 @@
+label: Marginally Similar
+domain: wiki
+aspect: Court appearance
+
+document_a:
+A man in his 30s is due to appear in court tomorrow morning charged in relation to the death of Elzbieta Piotrowska in Ardee, Co Louth.
+
+Ms Piotrowska, a motheroftwo who was originally from Poland, was attacked and died from catastrophic injuries at her home in Ardee yesterday.
+
+The 32yearold man was questioned by gardaí at Drogheda Garda Station.
+
+He is due to appear before Drogheda District Court tomorrow.
+
+A postmortem examination was due to be carried out on Ms Piotrowskas body.
+
+Deputy State Pathologist Dr Michael Curtis carried out a preliminary examination at the scene last night, before Ms Piotrowskas body was removed to Our Lady of Lourdes Hospital in Drogheda.
+
+Forensic examinations are continuing at four sealed off locations, including the scene of the attack.
+
+document_b:
+Latest Gardaí say they are not looking for anyone else in connection with the discovery of a womans body in County Louth this morning.
+
+The body of a 57yearold Polish woman was discovered at a house in Clonmore, Ardee at 11.30am.
+
+She is said to have died a violent death.
+
+A 32yearold man was arrested in connection with the investigation just hours after the discovery.
+
+Supt. Denis MacTiernan says they are not looking for any one else in relation to the crime.
+
+The scene at Clonmore has been preserved for a technical examination.
+
+Gardai have identified three other places of interest where they believe the suspect visited in and around the Ardee area.
+
+An incident room has been set up at Drogheda Garda Station and Gardai are appealing to anyone with information to contact them.
+
+Gardaí at the scene of the body find in Ardee. Pic Ciara Wilkinson
+
+Womans body found in the Louth village of Ardee Man arrested
+
+Update Gardaí have arrested a man after a womans body was found in Co. Louth today.
+
+The 35yearold was arrested in the Ardee area and is being held at Drogheda Garda Station.
+
+Gardaí will hold a media briefing at 5pm this evening.
+
+A womans body has been found in Co. Louth.
+
+Gardaí are investigating after they were called to a house in the Clonmore Estate in Ardee at around 11.30am this morning.
+
+The woman is believed to have suffered severe injuries and Gardaí say it appears she died a violent death.
+
+The scene has been preserved for an examination by the State Pathologist and Gardaí have also requested assistance from the Garda Technical Bureau.
+
+No arrests have been made and inquiries are ongoing.
