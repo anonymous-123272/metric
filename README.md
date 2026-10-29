@@ -76,7 +76,7 @@ When a document does not discuss the aspect, that side is replaced and the score
 
 `missing` is an empty string when both sides have evidence.
 
-**Defaults**
+## Defaults
 
 - method: `single` (default extraction style)
 - llm_model: `Qwen/Qwen3-8B`
@@ -88,13 +88,3 @@ When a document does not discuss the aspect, that side is replaced and the score
 - CLI: use `--show-evidence` to print extracted texts to stderr
 
 
-**Defaults**
-
-- method: `single` (default extraction style)
-- llm_model: `Qwen/Qwen3-8B`
-- embed_model: `Qwen/Qwen3-Embedding-8B`
-- max_model_len: `16384`
-- max_tokens: `2048`
-- gpu_memory_utilization: `0.45`
-- score: cosine rounded to 4 decimals
-- CLI: use `--show-evidence` to print extracted texts to stderr
